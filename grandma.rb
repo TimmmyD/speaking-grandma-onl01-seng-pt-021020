@@ -1,6 +1,6 @@
 def speak_to_grandma(phrase)
   if the phrase is upper case 
-    if phrase
+    if phrase.upcase?
    grandma will hear you 
   else 
     HUH SPEAK UP SONNY 
